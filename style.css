@@ -1,0 +1,75 @@
+*{
+    color: white;
+    padding: 0;
+    margin: 0;
+    background-color: #282828;
+}
+.one{
+    position: absolute;
+    top: 20px;
+    left: 10px;
+}
+.menu{
+
+    width: auto;
+    height: 19px;
+}
+button{
+    
+    width: auto;
+    height: 19px; 
+}
+a{
+    width: auto;
+    font-size: 39px;
+}
+
+.click{
+    opacity: 0;
+    width: 135px;
+    height: 95px;
+    position: absolute;
+    left: 784px;
+top: 0px;
+background-color: blue;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+    #btn1{
+        opacity: 0;
+        font-size: 100px;
+        height: 100px;
+        width: 400px;
+        position: absolute;
+        top: 1619px;
+        left: 16px;
+    }
+    #btn2{
+        opacity: 0;
+        font-size: 100px;
+        height: 100px;
+        width: 330px;
+        position: absolute;
+        top: 1619px;
+        left: 564px;
+    }
+    #a1{
+        opacity: 0;
+        font-size: 100px;
+        height: 100px;
+        width: 400px;
+        position: absolute;
+        top: 15px;
+        left: 16px;
+    }
+    #a2{
+        opacity: 0;
+        font-size: 100px;
+        height: 100px;
+        width: 400px;
+        position: absolute;
+        top: 10px;
+        left: 14px;
+    }
